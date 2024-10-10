@@ -7,10 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Built with](#Built with)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -21,7 +20,7 @@ First project from frontendmentor.io. It is a simple card with a qr code image.
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: [https://github.com/kentimus/frontendmentor-projects-qr/tree/main/qr-code-component-main] 
+- Solution URL: [https://github.com/kentimus/frontendmentor-projects-qr/tree/main/qr-code-component-main](https://github.com/kentimus/frontendmentor-projects-qr/tree/main/qr-code-component-main)
 - Live Site URL: [https://kentroper.com/frontendmentor-challenges/qr-code-component-main/index.html](https://kentroper.com/frontendmentor-challenges/qr-code-component-main/index.html)
 
 
